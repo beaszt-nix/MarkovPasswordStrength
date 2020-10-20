@@ -1,4 +1,5 @@
 dist
+training
 dist-*
 cabal-dev
 *.o
